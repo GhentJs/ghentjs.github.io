@@ -18,6 +18,6 @@ A list of past and future speakers and locations
 | Date | Location | Extra |
 |------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 09/01/2019 | Teamleader |  |
-| TBD | Zentrick | [twitter thread](https://twitter.com/tmdpw/status/1072214797574377472) / [@tmdpw](https://twitter.com/tmpdw) |
-| TBD | De Krook | [twitter thread](https://twitter.com/pietercolpaert/status/1072143424869019649) / [@pietercolpaert](https://twitter.com/pietercolpaert) / / [@tthoeye](https://twitter.com/tthoeye) |
-| TBD | UGent | Ruben Verborgh on Meetup |
+| *TBD* | Zentrick | [twitter thread](https://twitter.com/tmdpw/status/1072214797574377472) / [@tmdpw](https://twitter.com/tmpdw) |
+| *TBD* | De Krook | [twitter thread](https://twitter.com/pietercolpaert/status/1072143424869019649) / [@pietercolpaert](https://twitter.com/pietercolpaert) / / [@tthoeye](https://twitter.com/tthoeye) |
+| *TBD* | UGent | Ruben Verborgh on Meetup |
