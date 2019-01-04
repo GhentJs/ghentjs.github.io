@@ -15,15 +15,6 @@ body {
     flex-direction: column;
 }
 
-p {
-    display: block;
-}
-
-p:not(last-child) {
-
-}
-
-
 ul {
     list-style-type: none;
     margin: 0;
