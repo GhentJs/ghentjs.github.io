@@ -8,4 +8,4 @@ me information.
 ## Speakers and venues
 
 It's possible to suggest speakers and venues for our Meetups by opening a pull request to the 
-[speakers and locations](./speakers-locations.md) file
+[speakers and locations](./speakers-locations.md) file.
