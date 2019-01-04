@@ -15,7 +15,6 @@ body {
     flex-direction: column;
 }
 
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -49,6 +48,11 @@ footer {
     font-size: 80%;
 }
 
+footer .spacer {
+    width: 32px;
+    text-align: center;
+}
+
 .content {
     flex: 1 1 auto;
     display: flex;
@@ -65,7 +69,7 @@ footer {
     margin-top: 10vh;
 }
 
-.list__sponsors a,
+footer a,
 .content .list__social a {
     color: inherit;
     cursor: pointer;
