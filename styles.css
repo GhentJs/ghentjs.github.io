@@ -65,6 +65,27 @@ footer .spacer {
     max-width: 90%;
 }
 
+.page-content {
+    width: 800px;
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.page-content a {
+    color: inherit;
+}
+
+.page-content .logo__link {
+    border: none;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+.page-content .logo__link img {
+    max-width: 320px;
+}
+
 .content .list__social {
     margin-top: 10vh;
 }
